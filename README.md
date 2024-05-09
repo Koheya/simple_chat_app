@@ -22,7 +22,7 @@ Simple chat application using firebase authentication and firestore for messages
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Koheya/News-Cloud-App.git
+    git clone https://github.com/Koheya/simple_chat_app.git
     ```
 
 ## Contributing
